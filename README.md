@@ -19,6 +19,29 @@ While the NHS and professional bodies said hospitals were forced to cancel elect
 
 Two top radiologists said an historical lack of staff, as well as a shortage in CT and MRI scanners, had been “exacerbated” by Covid-19. 
 
+# Methodology
+
+For England we used two statistical datasets released by NHS England: The monthly Diagnostic Imaging Dataset (DID) and the monthly waiting times and activity dataset (DM01). 
+
+We used the DID to compare the overall number of diagnostic scans carried out at hospital trusts over a six month period - April to September, 2020. We then compared the totals with the same period in 2019. We also collected waiting times figures for the same period of time.
+
+Waiting times data was also obtained for Wales, Scotland and Northern Ireland for the same six-month period.  
+
+# Data
+
+We shared a briefing pack, which included:
+
+- Analysis of waiting time figures for diagnostic scans for England, Scotland, Wales and Northern Ireland, including breakdowns by region and by trust. Please read ‘important notes on the data’ first.
+
+- Analysis of the total scans carried out during the first six months of the pandemic in England, compared to the same period last year.  These are broken down by trust and region.
+
+- Expert comments from the Royal College of Radiologists (RCR), The British Institute for Radiology (BIR) and Cancer Research UK.
+
+- Responses to the figures from NHS England,  Leeds Teaching Hospitals NHS Trust and Manchester University NHS Foundation Trust.
+
+- A spreadsheet containing trust-level figures in England, Scotland, Wales and Northern Ireland 
+
+
 
 
 
