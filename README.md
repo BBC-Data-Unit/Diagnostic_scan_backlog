@@ -43,6 +43,44 @@ We shared a [briefing pack](https://docs.google.com/document/d/1jsz6sWi2g7bb002A
 
 # Partner usage
 
+The story was featured on BBC Online, BBC Radio Four, BBC Radio Two, BBC News at One and regional radio stations across the UK.  
+
+The BBC Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership.
+
+Stories written in print and online by partners based on this research included:
+
+![News channel snap](https://user-images.githubusercontent.com/61186777/102794927-f7241780-43a3-11eb-8d35-f1247d3f0034.png)
+
+- The Bolton News: [Waiting times for vital appointments at Bolton hospitals double](https://www.theboltonnews.co.uk/news/18952457.waiting-times-appointments-bolton-hospital-double/)
+
+- Kidderminster Shuttle: [Worcestershire hospitals trying to spped up return of non-Covid services](https://www.kidderminstershuttle.co.uk/news/18954292.worcestershire-hospitals-trying-speed-return-non-covid-services/)
+
+- You Harlow: [Worrying delays in Harlow residents waiting for cancer scans](https://www.yourharlow.com/2020/12/19/worrying-delay-in-harlow-residents-waiting-for-cancer-scan-at-pah/)
+
+- Bromsgrove Advertiser [Worcestershire hospitals trying to spped up return of non-Covid services](https://www.bromsgroveadvertiser.co.uk/news/18954292.worcestershire-hospitals-trying-speed-return-non-covid-services/)
+
+- Island Echo: [Covid leads to diagnostic scanning backlog on the Isle of Wight](https://www.islandecho.co.uk/covid-leads-to-diagnostic-scanning-backlog-on-the-isle-of-wight/)
+
+- In Your Area: [Thousands in Cambs missed out on life-saving scans as non-Covid NHS services halted](https://www.inyourarea.co.uk/news/thousands-in-cambs-missed-out-on-life-saving-scans-as-non-covid-nhs-services-halted/)
+
+- On the Wight: [Isle of Wight diagnostic scans down more than 15,000 on same period in 2019](https://onthewight.com/isle-of-wight-diagnostic-scans-down-more-than-15000-on-same-period-in-2019/)
+
+- Northampton Chronicle and Echo: [Tens of thousands missed out on life-saving cancer scans](https://www.northamptonchron.co.uk/health/tens-thousands-missed-out-life-saving-cancer-scans-northamptonshire-hospitals-year-3070689)
+
+- County Press: [Extra scanners mean performance getting back on track](https://www.countypress.co.uk/news/18951900.extra-scanners-mean-performing-service-getting-back-track/)
+
+- Yorkshire Post: [Leeds Teaching Hospitals NHS Truts has 34 per cent drop in cancer diagnostic scans](https://www.yorkshireeveningpost.co.uk/health/leeds-teaching-hospitals-nhs-trust-has-34-cent-drop-cancer-diagnostic-scans-through-covid-year-3070833)
+
+- Wirral GLobe: [Vital diagnostic scans down 33% in Wirral due to Covid](https://www.wirralglobe.co.uk/news/18949511.vital-diagnostic-scans-33-wirral-due-covid/)
+
+- Portsmouth News: [Health scan waiting lists across Hampshire hospitals rise due to Covid-19 pressures](https://www.portsmouth.co.uk/health/scan-waiting-lists-across-hampshire-hospitals-rise-due-covid-19-pressures-3070706)
+
+-ITV News: [Key hospital scans fell by 32 per cent in East of England during first six months of pandemic](https://www.itv.com/news/anglia/2020-12-17/covid-key-hospital-scans-fell-by-32-in-east-of-england-during-first-six-months-of-pandemic)
+
+- Leader Live: [Three out of five North Wales patients waiting eight weeks for scans](https://www.leaderlive.co.uk/news/18949717.three-five-north-wales-patients-left-waiting-eight-weeks-scans-due-covid-delays/)
+
+- Worcester News: [Worcester cancer survicor says fewer NHS scans cost lives](https://www.worcesternews.co.uk/news/18949548.worcester-cancer-survivor-fewer-nhs-scans-cost-lives/)
+
 
 
 
