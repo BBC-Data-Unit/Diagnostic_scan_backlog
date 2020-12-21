@@ -75,7 +75,7 @@ Stories written in print and online by partners based on this research included:
 
 - Portsmouth News: [Health scan waiting lists across Hampshire hospitals rise due to Covid-19 pressures](https://www.portsmouth.co.uk/health/scan-waiting-lists-across-hampshire-hospitals-rise-due-covid-19-pressures-3070706)
 
--ITV News: [Key hospital scans fell by 32 per cent in East of England during first six months of pandemic](https://www.itv.com/news/anglia/2020-12-17/covid-key-hospital-scans-fell-by-32-in-east-of-england-during-first-six-months-of-pandemic)
+- ITV News: [Key hospital scans fell by 32 per cent in East of England during first six months of pandemic](https://www.itv.com/news/anglia/2020-12-17/covid-key-hospital-scans-fell-by-32-in-east-of-england-during-first-six-months-of-pandemic)
 
 - Leader Live: [Three out of five North Wales patients waiting eight weeks for scans](https://www.leaderlive.co.uk/news/18949717.three-five-north-wales-patients-left-waiting-eight-weeks-scans-due-covid-delays/)
 
