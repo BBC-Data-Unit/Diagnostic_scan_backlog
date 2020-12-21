@@ -3,6 +3,7 @@ Millions of potentially life-saving scans were missed during the first six month
 
 In December, 2020, the shared data unit found millions of people missed out on potentially life-saving scans when non-Covid NHS services ground to a halt during the pandemic.
 
+![Scans over time new](https://user-images.githubusercontent.com/61186777/102792611-a6f78600-43a0-11eb-86c7-bf1d86559df2.png)
 
 Analysis of official figures found at least 4.4m less diagnostic imaging scans were carried out in England in the six months between April and September 2020, compared to the same period in 2019.
 
