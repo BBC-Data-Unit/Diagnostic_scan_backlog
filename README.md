@@ -29,17 +29,21 @@ Waiting times data was also obtained for Wales, Scotland and Northern Ireland fo
 
 # Data
 
-We shared a briefing pack, which included:
+We shared a [briefing pack](https://docs.google.com/document/d/1jsz6sWi2g7bb002AhO0Ia8AVnjTNzAOZlA52aDPF0bM/edit?usp=sharing), which included:
 
-- Analysis of waiting time figures for diagnostic scans for England, Scotland, Wales and Northern Ireland, including breakdowns by region and by trust. Please read ‘important notes on the data’ first.
+- Analysis of waiting time figures for diagnostic scans in England, Scotland, Wales and Northern Ireland, including breakdowns by region and by trust.
 
-- Analysis of the total scans carried out during the first six months of the pandemic in England, compared to the same period last year.  These are broken down by trust and region.
+- Analysis of the total scans carried out during the first six months of the pandemic in England, compared to the same period in 2019.  These are broken down by trust and region.
 
 - Expert comments from the Royal College of Radiologists (RCR), The British Institute for Radiology (BIR) and Cancer Research UK.
 
 - Responses to the figures from NHS England,  Leeds Teaching Hospitals NHS Trust and Manchester University NHS Foundation Trust.
 
-- A spreadsheet containing trust-level figures in England, Scotland, Wales and Northern Ireland 
+- A [spreadsheet](https://docs.google.com/spreadsheets/d/1muRoBXCCzD9k0G68unFqpx6l4bqpG714eesFpd2IQ7Q/edit?usp=sharing) containing trust-level figures in England, Scotland, Wales and Northern Ireland 
+
+# Partner usage
+
+
 
 
 
