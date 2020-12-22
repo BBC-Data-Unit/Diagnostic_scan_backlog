@@ -53,7 +53,7 @@ Stories written in print and online by partners based on this research included:
 
 - The Bolton News: [Waiting times for vital appointments at Bolton hospitals double](https://www.theboltonnews.co.uk/news/18952457.waiting-times-appointments-bolton-hospital-double/), 18th December, 2020.
 
-- Kidderminster Shuttle: [Worcestershire hospitals trying to spped up return of non-Covid services](https://www.kidderminstershuttle.co.uk/news/18954292.worcestershire-hospitals-trying-speed-return-non-covid-services/), 20th December 2020.
+- Kidderminster Shuttle: [Worcestershire hospitals trying to speed up return of non-Covid services](https://www.kidderminstershuttle.co.uk/news/18954292.worcestershire-hospitals-trying-speed-return-non-covid-services/), 20th December 2020.
 
 - You Harlow: [Worrying delays in Harlow residents waiting for cancer scans](https://www.yourharlow.com/2020/12/19/worrying-delay-in-harlow-residents-waiting-for-cancer-scan-at-pah/) 19th December, 2020.
 
@@ -71,7 +71,7 @@ Stories written in print and online by partners based on this research included:
 
 - Yorkshire Post: [Leeds Teaching Hospitals NHS Truts has 34 per cent drop in cancer diagnostic scans](https://www.yorkshireeveningpost.co.uk/health/leeds-teaching-hospitals-nhs-trust-has-34-cent-drop-cancer-diagnostic-scans-through-covid-year-3070833) 17th December, 2020.
 
-- Wirral GLobe: [Vital diagnostic scans down 33% in Wirral due to Covid](https://www.wirralglobe.co.uk/news/18949511.vital-diagnostic-scans-33-wirral-due-covid/) 17th December, 2020.
+- Wirral Globe: [Vital diagnostic scans down 33% in Wirral due to Covid](https://www.wirralglobe.co.uk/news/18949511.vital-diagnostic-scans-33-wirral-due-covid/) 17th December, 2020.
 
 - Portsmouth News: [Health scan waiting lists across Hampshire hospitals rise due to Covid-19 pressures](https://www.portsmouth.co.uk/health/scan-waiting-lists-across-hampshire-hospitals-rise-due-covid-19-pressures-3070706) 17th December, 2020.
 
