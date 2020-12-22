@@ -10,6 +10,9 @@ Analysis also revealed a wide variation in how hospitals were rebuilding capacit
 
 In one hospital, almost 80% of patients were waiting more than six weeks for a scan compared to zero in 2020.
 
+https://user-images.githubusercontent.com/61186777/102904674-f786e600-4469-11eb-8dfd-231d4100cb91.mp4
+
+
 In the North West, one in three patients were waiting more than six weeks for a scan, compared to one in five in the South East.
 
 In Scotland, almost half (47%) of those in need of key diagnostic tests in Scotland were waiting more than the six-week recommended limit.
