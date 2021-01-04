@@ -20,7 +20,7 @@ Two top radiologists said an historical lack of staff, as well as a shortage in 
 
 # Methodology
 
-For England we used two statistical datasets released by NHS England: The monthly Diagnostic Imaging Dataset (DID) and the monthly waiting times and activity dataset (DM01). 
+For England we used two statistical datasets released by NHS England: the monthly Diagnostic Imaging Dataset (DID) and the monthly waiting times and activity dataset (DM01). 
 
 We used the DID to compare the overall number of diagnostic scans carried out at hospital trusts over a six month period - April to September, 2020. We then compared the totals with the same period in 2019. We also collected waiting times figures for the same period of time.
 
@@ -66,6 +66,8 @@ Stories written in print and online by partners based on this research included:
 * Leader Live: [Three out of five North Wales patients waiting eight weeks for scans](https://www.leaderlive.co.uk/news/18949717.three-five-north-wales-patients-left-waiting-eight-weeks-scans-due-covid-delays/) *17 December 2020* 
 * Worcester News: [Worcester cancer survicor says fewer NHS scans cost lives](https://www.worcesternews.co.uk/news/18949548.worcester-cancer-survivor-fewer-nhs-scans-cost-lives/) *17 December 2020* 
 * Epping Forest Guardian: [Thousands caught up in coronavirus cancer scan backlog](https://www.eppingforestguardian.co.uk/news/18961040.thousands-caught-coronavirus-cancer-scan-backlog/) *22 December 2020* 
+* Guildford Dragon: [Diagnostic Testing Dipped by 21% in 2020 at the Royal Surrey](https://www.guildford-dragon.com/2020/12/31/diagnostic-testing-dipped-by-21-in-2020-at-the-royal-surrey/) *31 December 2020*
+* Wigan Today: [Thousands of Wiganers could be missing out on vital scans](https://www.wigantoday.net/health/thousands-wiganers-could-be-missing-out-vital-scans-3080479) *1 January 2021*
 
 ## Related repos
 
