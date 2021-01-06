@@ -68,6 +68,7 @@ Stories written in print and online by partners based on this research included:
 * Epping Forest Guardian: [Thousands caught up in coronavirus cancer scan backlog](https://www.eppingforestguardian.co.uk/news/18961040.thousands-caught-coronavirus-cancer-scan-backlog/) *22 December 2020* 
 * Guildford Dragon: [Diagnostic Testing Dipped by 21% in 2020 at the Royal Surrey](https://www.guildford-dragon.com/2020/12/31/diagnostic-testing-dipped-by-21-in-2020-at-the-royal-surrey/) *31 December 2020*
 * Wigan Today: [Thousands of Wiganers could be missing out on vital scans](https://www.wigantoday.net/health/thousands-wiganers-could-be-missing-out-vital-scans-3080479) *1 January 2021*
+* Cornwall Live: [Thousands of missed and delayed cancer scans in Cornwall due to Covid-strained NHS](https://www.cornwalllive.com/news/cornwall-news/thousands-missed-delayed-cancer-scans-4856341) *6 January 2021*
 
 ## Related repos
 
